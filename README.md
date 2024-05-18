@@ -1,3 +1,5 @@
+color:dark:bg-green-300 bg-blue-200
+
 ## ICon is component so need to use Upper case
 
 ## Address is set the address as it shows lol

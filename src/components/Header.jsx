@@ -14,7 +14,7 @@ export default function Header() {
       <div className="flex items-center gap-4">
         <DarkSwitch />
         <Link href={"/"} className="flex gap-1 items-center">
-          <span className="text-2xl font-bold bg-blue-400 py-1 px-2">
+          <span className="text-2xl font-bold bg-red-300 py-1 px-2">
             Movie
           </span>
           <span className="text-xl hidden sm:inline">by.Next</span>
