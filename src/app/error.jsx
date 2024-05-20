@@ -3,7 +3,7 @@
 import{ useEffect } from 'react'
 export default function error({error, reset}) {
     useEffect(()=>{
-        console.log(error);
+        console.log(error)
     },[error]);
     return (
     <div className='text-center mt-50'>
