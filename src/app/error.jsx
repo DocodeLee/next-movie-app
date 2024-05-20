@@ -6,7 +6,7 @@ export default function error({error, reset}) {
         console.log(error);
     },[error]);
     return (
-    <div className='text-center mt-10'>
+    <div className='text-center mt-50'>
         <h1>
         Something went Wrong. Please try Again later.
         </h1>
